@@ -1,0 +1,5 @@
+[theme]
+primaryColor = "#FFd700" #Cor primária, botões, destaques...
+backgroundColor = "#000000" #Cor do fundo do site
+secondaryBackgroundColor = "#b67600"
+textColor = "#800000ab"
